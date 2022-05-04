@@ -108,7 +108,7 @@ I am focused in:
 -Defi<br/>
   Fantasm finance,
   Safuu finance, Titano finance<br/>
-  Backed beans,  Thor finance<br/>
+  Baked beans,  Thor finance<br/>
   Node finance,  Drip community<br/>
  -Token<br/>
   BEP20, ERC20, ERC721, ERC1155 
