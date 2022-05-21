@@ -41,9 +41,9 @@
 
 | <a href="https://github.com/Hellod236?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hellod236&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/Hellod236?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellod236&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- | 
-
+<!-- 
 <!--   GitHub stats graph -->
-![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Hellod236&hide_border=true&theme=github-light)
+![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Hellod236&hide_border=true&theme=github-light) -->
 
 ### My Portfolio:
  
