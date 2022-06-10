@@ -39,42 +39,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<!-- ### My Portfolio:
- 
-<table>
-    <thead align="center">
-        <tr>
-            <td>Baked beans</td>
-            <td>Safuu finance</td>        
-            <td>Tomb finance</td>
-            <td>Dex site</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.olympusdao.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Hellod236/Hellod236-portfolioImg/main/Screenshot_1.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="http://fortcake-amm.vercel.app/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Hellod236/Hellod236-portfolioImg/main/Titano/astroyield-site.png" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://apx.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Hellod236/Hellod236-portfolioImg/main/tomb/bstable.png" width="200">
-            </a>
-        </td>         
-        <td>
-            <a href="https://instantxrp.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/Hellod236/Hellod236-portfolioImg/main/pancakeSwap/crotalik.png" width="200">
-            </a>
-        </td>
-    </tr>
-</table> -->
-
 ### 💗 My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
