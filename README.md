@@ -68,4 +68,5 @@ I am focused in:
   Fantasm finance,
   Safuu finance, Titano finance, Baked beans,  Thor finance, Node finance,  Drip community</br>
   -Token<br/>
-  BEP20, ERC20, ERC721, ERC1155 
+  BEP20, ERC20, ERC721, ERC1155</br>
+  Reward token, Reflaction token, Rebase token, Giza token
