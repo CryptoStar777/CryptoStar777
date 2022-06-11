@@ -66,6 +66,6 @@ I am focused in:
 <br/>
 -Defi<br/>
   Fantasm finance,
-  Safuu finance, Titano finance, Baked beans,  Thor finance, Node finance,  Drip community, 
+  Safuu finance, Titano finance, Baked beans,  Thor finance, Node finance,  Drip community</br>
   -Token<br/>
   BEP20, ERC20, ERC721, ERC1155 
