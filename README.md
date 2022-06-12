@@ -13,7 +13,7 @@
    
    Strong track record of excellence, and of delivering high-quality innovative work. Looking for a high-level opportunity in a dynamic organization.
    
- <div>
+<!--  <div>
   <img align="right" alt="GIF" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="500" height="320" margin-right="20px"/>
 </div>
 
@@ -21,7 +21,7 @@
 
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
 - 🌱 I’m currently learning Edge Computing
-- 📫 Ask me about anything, I am happy to help
+- 📫 Ask me about anything, I am happy to help -->
 
 <br></br>
 
