@@ -22,11 +22,9 @@
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
 - 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help -->
+<br>
 
-<br></br>
-
-### Connect with me:
- </br>
+### Connect with me:</br>
 - 📧 Email : (kryptoexpert1@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
