@@ -3,7 +3,7 @@
  
   <br />  
   
-  I'm 🥇[Krypto219](https://t.me/HellodKrypto)🥇.<br> [Email](kryptoexpert1@gmail.com)
+  I'm 🥇[Krypto219](https://t.me/HellodKrypto)🥇
   <br />
    Highly trained, motivated, and ambitious Full Stack Web & Blockchain Developer with solid 6-year experience of Web development and 5-year experience of Blockchain development. 
    
@@ -25,9 +25,9 @@
 
 <br></br>
 
-<!-- ### Connect with me:
- 
-- 📧 Email : kryptoexpert1@gmail.com --> 
+### Connect with me:
+ </br>
+- 📧 Email : (kryptoexpert1@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
