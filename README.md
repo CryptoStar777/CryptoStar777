@@ -24,9 +24,6 @@
 - 📫 Ask me about anything, I am happy to help -->
 <br>
 
-### Connect with me:</br>
-- 📧 Email : (kryptoexpert1@gmail.com)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <!-- <a href="https://developer.android.com" target="_blank"> <img
