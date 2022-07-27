@@ -3,7 +3,7 @@
  
   <br />  
   
-  I'm 🥇[Krypto219](https://t.me/HellodKrypto)🥇
+  🥇[Gould219](https://t.me/Gould219)🥇
   <br />
    Highly trained, motivated, and ambitious Full Stack Web & Blockchain Developer with solid 6-year experience of Web development and 5-year experience of Blockchain development. 
    
